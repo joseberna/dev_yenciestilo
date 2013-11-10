@@ -29,8 +29,8 @@ public class MainActivity extends FragmentActivity {
 			"com.devandroid.yenciestilo.fragmentos.ProyeccionImagen",
 			"com.devandroid.yenciestilo.fragmentos.SeminariosTalleres",
 			"com.devandroid.yenciestilo.fragmentos.ProtocoloEtiqueta",
-			"com.devandroid.yenciestilo.fragmentos.AsesoriaOnline",
-			"com.devandroid.yenciestilo.fragmentos.MejoresOfertas" };
+			"com.devandroid.yenciestilo.fragmentos.Tips",
+			"com.devandroid.yenciestilo.fragmentos.Contactame" };
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

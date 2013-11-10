@@ -9,9 +9,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class AsesoriaOnline extends Fragment {
+public class Tips extends Fragment {
 	public static Fragment newInstance(Context context) {
-		AsesoriaOnline f = new AsesoriaOnline();
+		Tips f = new Tips();
 		return f;
 	}
 
@@ -19,7 +19,7 @@ public class AsesoriaOnline extends Fragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
-		ViewGroup root = (ViewGroup) inflater.inflate(R.layout.asesoriaonline,
+		ViewGroup root = (ViewGroup) inflater.inflate(R.layout.tips,
 				null);
 		return root;
 	}

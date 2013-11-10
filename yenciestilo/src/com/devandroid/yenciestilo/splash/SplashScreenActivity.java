@@ -1,7 +1,6 @@
 package com.devandroid.yenciestilo.splash;
 
 import android.app.Activity;
-
 import com.devandroid.yenciestilo.MainActivity;
 import com.example.yenciestilo.R;
 import android.content.Intent;
@@ -12,7 +11,6 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class SplashScreenActivity extends Activity {
-
 	// Set the duration of the splash screen
 	private static final long SPLASH_SCREEN_DELAY = 3000;
 

@@ -8,9 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class MejoresOfertas extends Fragment {
+public class Contactame extends Fragment {
 	public static Fragment newInstance(Context context) {
-		MejoresOfertas f = new MejoresOfertas();
+		Contactame f = new Contactame();
 		return f;
 	}
 
@@ -18,7 +18,7 @@ public class MejoresOfertas extends Fragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
-		ViewGroup root = (ViewGroup) inflater.inflate(R.layout.mejoresofertas,
+		ViewGroup root = (ViewGroup) inflater.inflate(R.layout.contactame,
 				null);
 		return root;
 	}

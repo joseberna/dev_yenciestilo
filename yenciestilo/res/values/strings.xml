@@ -6,7 +6,7 @@
     <string name="proyeccionimagen">Proyección E Imagen</string>
     <string name="seminariostalleres">Seminarios Y Talleres</string>
     <string name="protocoloetiqueta">Protocolo Y Etiqueta</string>
-    <string name="asesoriaonline">Asesoría Online</string>
+    <string name="asesoriaonline">Tip´s</string>
     <string name="mejoresofertas">Mejores Ofertas</string>
 
     <string-array name="menu_array">
@@ -14,16 +14,27 @@
         <item>Proyección E Imagen</item>
         <item>Seminarios Y Talleres</item>
         <item>Protocolo Y Etiqueta</item>
-        <item>Asesoría Online</item>
-        <item>Mejores Ofertas</item>
+        <item>Tip´s</item>
+        <item>Contáctame</item>
     </string-array>
 
     <string name="action_settings">Acerca de</string>
     <string name="menu">menu</string>
     <string name="intro"></string>
-    <string name="mision">Potencializar la imagen corporativa de sus colaboradores, tanto a nivel individual, como en grupos de trabajo. 
-Actualmente, es importante invertir en los activos mas valiosos de la organización: sus colaboradores. Por medio de seminarios y talleres,
-fortaleceremos su imagen profesional, todo esto, de acuerdo a la imagen de su empresa. </string>
-    <string name="vision"></string>
+     <string name="tit_mision">
+         MISIÓN         
+     </string>
+     <string name="tit_vision">
+         VISIÓN         
+     </string>
+    <string name="mision">Actualmente, es importante invertir en los activos más valiosos de la organización: los colaboradores. 
+Por tanto, estamos empeñados en potencializar la imagen corporativa de ellos, 
+tanto individual como en grupos de trabajo. 
+La imagen es a nivel personal.
+Se trabajará por medio de seminarios y talleres, cuyo objetivo central es fortalecer su imagen profesional, 
+articulándola con la imagen de la empresa. </string>
+    <string name="vision">Para el año 2016, seremos la mejor empresa colombiana que brinde proyección de imagen y protocolo a personas o grupos empresariales. 
+Con una identidad corporativa de acuerdo con la cultura organizacional del entorno. 
+El protocolo y la etiqueta que ofrecemos, a nuestros clientes, marcarán la diferencia ante la competencia.</string>
 
 </resources>
