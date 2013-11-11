@@ -37,4 +37,53 @@ articulándola con la imagen de la empresa. </string>
 Con una identidad corporativa de acuerdo con la cultura organizacional del entorno. 
 El protocolo y la etiqueta que ofrecemos, a nuestros clientes, marcarán la diferencia ante la competencia.</string>
 
+    
+ <string name="tit_semtall">
+         Yenci Forero esta disponible para impartir conferencias y seminarios  a grupos empresariales, 
+administrativos y particulares.\nAlgunas de las charlas son:        
+     </string>
+    
+ <string name="tit_propio">
+         \nTU PROPIO ESTILO ES TU IMAGEN DE ÉXITO      
+     </string>
+ 
+    
+ <string name="propio">   
+    - Que es imagen \n
+	- Que imagen proyecto con lo que uso \n
+	- Descubriendo mi propio estilo \n
+	- Auto Imagen \n
+	- La Imagen de la empresa y sus componentes \n
+	- Esa primera impresión \n
+	- Como proyectar una imagen de autoridad.
+	
+      </string>
+ 
+ <string name="tit_poten">
+     \nACEPTARNOS Y POTENCIALIZARNOS
+ </string>
+ 
+ <string name="potenciar">
+- Que soy y que quiero proyectar \n
+- Relaciones humanas exitosas \n
+- Conoce tu figura y lo que proyectas \n
+- Secretos para balancear ópticamente tu figura \n
+- El color y tu \n
+- Código de vestuario en el trabajo \n
+- Secretos de la comunicación no verba \n
+ </string>
+ 
+  <string name="tit_prot">
+     \nTU ACTIVO MÁS IMPORTANTE PROTOCOLO EMPRESARIAL
+ </string>
+ 
+  <string name="protocolo">
+- La Imagen un valor agregado \n
+- Trato y cortesía en la oficina \n
+- El teléfono es tu Imagen \n
+- Representando con éxito la imagen de tu empresa \n
+  </string>
+ 
+  
+  
 </resources>
